@@ -1,0 +1,22 @@
+footer{
+    background-color: #1A191A;
+}
+.footer-list-item{
+    margin-bottom: 10px;
+}
+.footer-list-item a{
+    font-size: 1.3em;
+    color: aqua;
+}
+.footer_items{
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_items p{
+    color: #fff;
+    font-size: 1.4em;
+}
+.footer_items-block{
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+.main_info-title{
+    padding: 15px 0 10px 0;
+}
+.main_info-rates{
+    display: flex;
+    padding: 0 10px;
+}
+.rates-info{
+    padding: 10px;
+    background-color: #ebebeb;
+    width: 30%;
+    margin-right: 20px;
+}
+.rates-info_name p{
+    font-weight: 700;
+    font-size: 1.4em;
+}
+.rates-info_name{
+    padding-bottom: 30px;
+}
+.info_value-buy{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+.info_value-buy p:first-child{
+    font-weight: 600;
+    font-size: 1.1em;
+}
+.info_value-buy p:nth-child(2){
+    font-weight: 500;
+    font-size: 1.1em;
+}

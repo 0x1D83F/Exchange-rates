@@ -1,0 +1,11 @@
+.menu{
+    background-color: rgb(12, 199, 112);
+}
+.menu-list{
+    display: flex;
+    padding: 5px 0;
+}
+.menu-list li {
+    margin-right: 15px;
+    font-size: 1.2em;
+}

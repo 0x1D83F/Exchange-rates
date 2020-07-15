@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+label{
+    cursor: pointer;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+
